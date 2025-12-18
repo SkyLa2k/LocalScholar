@@ -15,8 +15,8 @@ LocalScholar 是一款专注于隐私保护、由 AI 驱动的学术论文整理
 
 1. **克隆仓库**：
    ```bash
-   git clone https://github.com/your-username/localscholar.git
-   cd localscholar
+   git clone https://github.com/SkyLa2k/LocalScholar.git
+   cd LocalScholar
    ```
 2. **安装并运行**：
    ```bash

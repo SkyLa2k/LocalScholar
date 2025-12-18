@@ -15,8 +15,8 @@ LocalScholar is a privacy-first, AI-powered academic paper organizer. It helps r
 
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/your-username/localscholar.git
-   cd localscholar
+   git clone https://github.com/SkyLa2k/LocalScholar.git
+   cd LocalScholar
    ```
 2. **Install & Run**:
    ```bash
