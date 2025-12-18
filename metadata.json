@@ -1,0 +1,5 @@
+{
+  "name": "LocalScholar - 专业科研论文管家",
+  "description": "基于 AI 的本地文献自动化整理中心，支持分类、重命名及结构化归档。",
+  "requestFramePermissions": []
+}
